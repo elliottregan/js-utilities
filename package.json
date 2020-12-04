@@ -1,0 +1,23 @@
+{
+  "name": "js-utilities",
+  "version": "1.0.0",
+  "description": "A small collections of js utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliottregan/js-utilities.git"
+  },
+  "keywords": [
+    "utility",
+    "js"
+  ],
+  "author": "Elliott Regan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliottregan/js-utilities/issues"
+  },
+  "homepage": "https://github.com/elliottregan/js-utilities#readme"
+}
